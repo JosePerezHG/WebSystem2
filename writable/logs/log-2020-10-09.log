@@ -1,0 +1,86 @@
+CRITICAL - 2020-10-09 11:38:32 --> Undefined variable: validation
+#0 C:\xampp\htdocs\proyecto\app\Views\temazoom1.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\proyecto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\proyecto\system\Common.php(1119): CodeIgniter\View\View->render('temazoom1', Array, true)
+#3 C:\xampp\htdocs\proyecto\app\Controllers\Tema.php(12): view('temazoom1')
+#4 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(918): App\Controllers\Tema->index()
+#5 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tema))
+#6 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\proyecto\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-09 11:54:17 --> Undefined variable: validation
+#0 C:\xampp\htdocs\proyecto\app\Views\temazoom1.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\proyecto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\proyecto\system\Common.php(1119): CodeIgniter\View\View->render('temazoom1', Array, true)
+#3 C:\xampp\htdocs\proyecto\app\Controllers\Tema.php(12): view('temazoom1')
+#4 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(918): App\Controllers\Tema->index()
+#5 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tema))
+#6 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\proyecto\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-09 11:59:38 --> Undefined variable: validation
+#0 C:\xampp\htdocs\proyecto\app\Views\temazoom1.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\proyecto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\proyecto\system\Common.php(1119): CodeIgniter\View\View->render('temazoom1', Array, true)
+#3 C:\xampp\htdocs\proyecto\app\Controllers\Tema.php(12): view('temazoom1')
+#4 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(918): App\Controllers\Tema->index()
+#5 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tema))
+#6 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\proyecto\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-09 12:36:49 --> Undefined variable: validation
+#0 C:\xampp\htdocs\proyecto\app\Views\temazoom1.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\proyecto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\proyecto\system\Common.php(1119): CodeIgniter\View\View->render('temazoom1', Array, true)
+#3 C:\xampp\htdocs\proyecto\app\Controllers\Tema.php(12): view('temazoom1')
+#4 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(918): App\Controllers\Tema->index()
+#5 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tema))
+#6 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\proyecto\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-09 12:36:52 --> Undefined variable: validation
+#0 C:\xampp\htdocs\proyecto\app\Views\temazoom1.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\proyecto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\proyecto\system\Common.php(1119): CodeIgniter\View\View->render('temazoom1', Array, true)
+#3 C:\xampp\htdocs\proyecto\app\Controllers\Tema.php(12): view('temazoom1')
+#4 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(918): App\Controllers\Tema->index()
+#5 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tema))
+#6 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\proyecto\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-09 12:54:58 --> Undefined variable: validation
+#0 C:\xampp\htdocs\proyecto\app\Views\temazoom1.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\proyecto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\proyecto\system\Common.php(1119): CodeIgniter\View\View->render('temazoom1', Array, true)
+#3 C:\xampp\htdocs\proyecto\app\Controllers\Tema.php(12): view('temazoom1')
+#4 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(918): App\Controllers\Tema->index()
+#5 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tema))
+#6 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\proyecto\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-09 12:57:29 --> Undefined variable: validation
+#0 C:\xampp\htdocs\proyecto\app\Views\temazoom1.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\proyecto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\proyecto\system\Common.php(1119): CodeIgniter\View\View->render('temazoom1', Array, true)
+#3 C:\xampp\htdocs\proyecto\app\Controllers\Tema.php(12): view('temazoom1')
+#4 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(918): App\Controllers\Tema->index()
+#5 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tema))
+#6 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\proyecto\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-09 12:57:38 --> Undefined variable: validation
+#0 C:\xampp\htdocs\proyecto\app\Views\temazoom1.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 69, Array)
+#1 C:\xampp\htdocs\proyecto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\proyecto\system\Common.php(1119): CodeIgniter\View\View->render('temazoom1', Array, true)
+#3 C:\xampp\htdocs\proyecto\app\Controllers\Tema.php(12): view('temazoom1')
+#4 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(918): App\Controllers\Tema->index()
+#5 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tema))
+#6 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\proyecto\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-09 12:59:07 --> Class 'App\Controllers\PersonaModelo' not found
+#0 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(918): App\Controllers\Tema->doSave()
+#1 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tema))
+#2 C:\xampp\htdocs\proyecto\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\proyecto\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

@@ -1,0 +1,70 @@
+CRITICAL - 2020-12-17 19:20:07 --> Undefined variable: datos
+#0 C:\xampp\htdocs\WebSystem\app\Views\portada.php(89): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 89, Array)
+#1 C:\xampp\htdocs\WebSystem\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('portada', Array, true)
+#3 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(85): view('portada', Array)
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->doLogin()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-17 19:20:19 --> Undefined variable: datos
+#0 C:\xampp\htdocs\WebSystem\app\Views\portada.php(89): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 89, Array)
+#1 C:\xampp\htdocs\WebSystem\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('portada', Array, true)
+#3 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(85): view('portada', Array)
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->doLogin()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-17 19:21:19 --> Undefined variable: datos
+#0 C:\xampp\htdocs\WebSystem\app\Views\portada.php(89): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 89, Array)
+#1 C:\xampp\htdocs\WebSystem\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('portada', Array, true)
+#3 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(85): view('portada', Array)
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->doLogin()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-17 19:21:27 --> Undefined variable: datos
+#0 C:\xampp\htdocs\WebSystem\app\Views\portada.php(89): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 89, Array)
+#1 C:\xampp\htdocs\WebSystem\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('portada', Array, true)
+#3 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(85): view('portada', Array)
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->doLogin()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-17 19:24:23 --> Undefined variable: datos
+#0 C:\xampp\htdocs\WebSystem\app\Views\portada.php(89): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 89, Array)
+#1 C:\xampp\htdocs\WebSystem\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('portada', Array, true)
+#3 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(85): view('portada', Array)
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->doLogin()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-17 19:52:41 --> Undefined variable: datos
+#0 C:\xampp\htdocs\WebSystem\app\Views\portada.php(89): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 89, Array)
+#1 C:\xampp\htdocs\WebSystem\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('portada', Array, true)
+#3 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(85): view('portada', Array)
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->doLogin()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-12-17 19:53:00 --> Undefined variable: datos
+#0 C:\xampp\htdocs\WebSystem\app\Views\portada.php(89): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 89, Array)
+#1 C:\xampp\htdocs\WebSystem\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('portada', Array, true)
+#3 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(85): view('portada', Array)
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->doLogin()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

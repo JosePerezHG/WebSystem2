@@ -1,0 +1,100 @@
+CRITICAL - 2020-11-18 13:03:28 --> Undefined variable: datos
+#0 C:\xampp\htdocs\WebSystem\app\Views\portada.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\WebSystem\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('portada', Array, true)
+#3 C:\xampp\htdocs\WebSystem\app\Controllers\Portada.php(13): view('portada')
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Portada->index()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Portada))
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-11-18 13:04:46 --> Undefined variable: datos
+#0 C:\xampp\htdocs\WebSystem\app\Views\portada.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\WebSystem\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('portada', Array, true)
+#3 C:\xampp\htdocs\WebSystem\app\Controllers\Portada.php(13): view('portada')
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Portada->index()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Portada))
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-11-18 13:04:48 --> Undefined variable: datos
+#0 C:\xampp\htdocs\WebSystem\app\Views\portada.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\WebSystem\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('portada', Array, true)
+#3 C:\xampp\htdocs\WebSystem\app\Controllers\Portada.php(13): view('portada')
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Portada->index()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Portada))
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-11-18 13:05:14 --> Undefined variable: datos
+#0 C:\xampp\htdocs\WebSystem\app\Views\portada.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\WebSystem\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('portada', Array, true)
+#3 C:\xampp\htdocs\WebSystem\app\Controllers\Portada.php(13): view('portada')
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Portada->index()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Portada))
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-11-18 13:06:58 --> Undefined variable: datos
+#0 C:\xampp\htdocs\WebSystem\app\Views\portada.php(75): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 75, Array)
+#1 C:\xampp\htdocs\WebSystem\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('portada', Array, true)
+#3 C:\xampp\htdocs\WebSystem\app\Controllers\Portada.php(13): view('portada')
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Portada->index()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Portada))
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-11-18 14:49:33 --> datatema is not a valid rule.
+#0 C:\xampp\htdocs\WebSystem\system\Controller.php(203): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('datatema')
+#1 C:\xampp\htdocs\WebSystem\app\Controllers\RestTema.php(18): CodeIgniter\Controller->validate('datatema')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\RestTema->create()
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RestTema))
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-18 14:50:40 --> datatema is not a valid rule.
+#0 C:\xampp\htdocs\WebSystem\system\Controller.php(203): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('datatema')
+#1 C:\xampp\htdocs\WebSystem\app\Controllers\RestTema.php(18): CodeIgniter\Controller->validate('datatema')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\RestTema->create()
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RestTema))
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-18 14:51:37 --> datatema is not a valid rule.
+#0 C:\xampp\htdocs\WebSystem\system\Controller.php(203): CodeIgniter\Validation\Exceptions\ValidationException::forRuleNotFound('datatema')
+#1 C:\xampp\htdocs\WebSystem\app\Controllers\RestTema.php(18): CodeIgniter\Controller->validate('datatema')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\RestTema->create()
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RestTema))
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-18 18:17:54 --> Cannot call constructor
+#0 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(890): App\Controllers\Login->__construct()
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-18 18:18:10 --> Cannot call constructor
+#0 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(890): App\Controllers\Login->__construct()
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-11-18 18:18:39 --> Undefined property: App\Controllers\Login::$load
+#0 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->index_login()
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-18 18:18:43 --> Undefined property: App\Controllers\Login::$load
+#0 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(15): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->index_login()
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

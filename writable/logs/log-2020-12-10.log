@@ -1,0 +1,11 @@
+CRITICAL - 2020-12-10 19:05:40 --> PROCEDURE bd_websystem.sp_listar_temas_z does not exist
+#0 C:\xampp\htdocs\WebSystem\system\Database\MySQLi\Connection.php(331): mysqli->query('CALL sp_listar_...')
+#1 C:\xampp\htdocs\WebSystem\system\Database\BaseConnection.php(741): CodeIgniter\Database\MySQLi\Connection->execute('CALL sp_listar_...')
+#2 C:\xampp\htdocs\WebSystem\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('CALL sp_listar_...')
+#3 C:\xampp\htdocs\WebSystem\app\Models\AdminTemaModelo.php(19): CodeIgniter\Database\BaseConnection->query('CALL sp_listar_...')
+#4 C:\xampp\htdocs\WebSystem\app\Controllers\Servicio.php(15): App\Models\AdminTemaModelo->listar_z()
+#5 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Servicio->index_z()
+#6 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Servicio))
+#7 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#9 {main}

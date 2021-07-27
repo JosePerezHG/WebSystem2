@@ -1,0 +1,78 @@
+/*Estos son complementarios a tema, sin tema, no se vería bien*/
+
+.form-admin{
+	padding-left: 35px;
+}
+
+	.form-admin p{
+		font-size: 18px;
+		margin: 0;
+		padding: 5px;
+		padding-left: 20px;
+	}
+
+	.form-admin .combito{
+		font-size: 18px;
+		margin: 0;
+		padding: 5px;
+		padding-left: 20px;
+	}
+
+	.form-admin input{
+		font-size: 18px;
+		margin: 0;
+		padding: 3px 3px 3px 3px;
+	}
+
+.tabla-admin{
+	display: flex;
+	justify-content: center;
+}
+
+	.tabla-admin table{
+		width: 80%;
+	}
+
+	.tabla-admin tr{
+		border: solid 2px rgba(0, 0, 0, 0.5);
+	}
+
+		.tabla-admin tr:nth-child(2n){
+			background: rgba(0, 0, 0, 0.05);
+		}
+
+	.tabla-admin th{
+		height: 30px;
+		text-align: center;
+		color: rgba(255, 255, 255, 0.8);
+/*		border: solid 2px rgba(0, 0, 0, 0.5);*/
+		background: rgba(0, 0, 0, 0.6);
+	}
+
+	.tabla-admin td{
+		height: 20px;
+		border: solid 2px rgba(0, 0, 0, 0.5);
+		padding: 10px;
+	}
+
+		.tabla-admin td:first-child, td:nth-child(2n){
+			text-align: center;
+		}
+
+.boton-actualizar{
+	background: rgba(0, 0, 0, 0.6);
+	color: rgba(255, 255, 255, 0.8);
+	display: block;
+	float: right;
+	padding: 3px 10px;
+	margin-left: 50%;
+	margin-right: 46%;
+}
+
+.boton-crear{
+	background: rgba(0, 0, 0, 0.6);
+	color: rgba(255, 255, 255, 0.8);
+	display: block;
+	padding: 3px 10px;
+	margin-left: 25%;
+}

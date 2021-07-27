@@ -1,0 +1,14 @@
+CRITICAL - 2020-11-20 05:20:17 --> Use of undefined constant view - assumed 'view' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\WebSystem\app\Controllers\Portada.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Portada->index()
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Portada))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-20 05:20:25 --> Use of undefined constant view - assumed 'view' (this will throw an Error in a future version of PHP)
+#0 C:\xampp\htdocs\WebSystem\app\Controllers\Portada.php(15): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefine...', 'C:\\xampp\\htdocs...', 15, Array)
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Portada->index()
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Portada))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

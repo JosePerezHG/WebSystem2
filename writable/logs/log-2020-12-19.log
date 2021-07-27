@@ -1,0 +1,10 @@
+CRITICAL - 2020-12-19 16:42:56 --> Undefined index: txt-content
+#0 C:\xampp\htdocs\WebSystem2\app\Views\temazoom1.php(22): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 22, Array)
+#1 C:\xampp\htdocs\WebSystem2\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\WebSystem2\system\Common.php(1119): CodeIgniter\View\View->render('temazoom1', Array, true)
+#3 C:\xampp\htdocs\WebSystem2\app\Controllers\Tema.php(13): view('temazoom1')
+#4 C:\xampp\htdocs\WebSystem2\system\CodeIgniter.php(918): App\Controllers\Tema->index()
+#5 C:\xampp\htdocs\WebSystem2\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Tema))
+#6 C:\xampp\htdocs\WebSystem2\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\WebSystem2\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

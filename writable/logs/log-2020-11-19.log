@@ -1,0 +1,80 @@
+CRITICAL - 2020-11-19 17:16:58 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\WebSystem\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('login/very_sesi...')
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('login/very_sesi...')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-19 17:17:01 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\WebSystem\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('login/very_sesi...')
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('login/very_sesi...')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-19 17:17:06 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\WebSystem\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('login/very_sesi...')
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('login/very_sesi...')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-19 17:19:04 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\WebSystem\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('login/very_sesi...')
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('login/very_sesi...')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-19 17:19:24 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\WebSystem\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('login/very_sesi...')
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('login/very_sesi...')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-19 17:50:39 --> syntax error, unexpected '}', expecting ';'
+#0 C:\xampp\htdocs\WebSystem\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Login/index_log...')
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Login/index_log...')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-19 17:51:29 --> syntax error, unexpected 'value' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('login', Array, true)
+#1 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(16): view('login')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->index_login()
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 17:53:00 --> syntax error, unexpected 'value' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('login', Array, true)
+#1 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(16): view('login')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->index_login()
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 17:53:01 --> syntax error, unexpected 'value' (T_STRING), expecting ',' or ';'
+#0 C:\xampp\htdocs\WebSystem\system\Common.php(1119): CodeIgniter\View\View->render('login', Array, true)
+#1 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(16): view('login')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->index_login()
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#4 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-11-19 18:02:48 --> Undefined property: App\Controllers\Login::$input
+#0 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 37, Array)
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->very_sesion()
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-19 18:02:49 --> Undefined property: App\Controllers\Login::$input
+#0 C:\xampp\htdocs\WebSystem\app\Controllers\Login.php(37): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\xampp\\htdocs...', 37, Array)
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\Login->very_sesion()
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}

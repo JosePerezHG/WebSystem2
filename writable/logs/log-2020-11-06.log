@@ -1,0 +1,42 @@
+CRITICAL - 2020-11-06 15:14:47 --> Undefined index: v4
+#0 C:\xampp\htdocs\WebSystem\app\Controllers\AdminServicio.php(26): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined index...', 'C:\\xampp\\htdocs...', 26, Array)
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(918): App\Controllers\AdminServicio->doList()
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(404): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminServicio))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-06 15:22:47 --> syntax error, unexpected 'v2' (T_STRING)
+#0 C:\xampp\htdocs\WebSystem\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('AdminServicio')
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('AdminServicio')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-06 15:25:42 --> syntax error, unexpected '$respuesta' (T_VARIABLE)
+#0 C:\xampp\htdocs\WebSystem\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('AdminServicio')
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('AdminServicio')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-06 18:24:44 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\WebSystem\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Servicio/index')
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Servicio/index')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-06 18:56:03 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\WebSystem\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Portada/index')
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Portada/index')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-11-06 18:57:05 --> syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\WebSystem\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Portada/index')
+#1 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(793): CodeIgniter\Router\Router->handle('Portada/index')
+#2 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(364): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\WebSystem\system\CodeIgniter.php(312): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\WebSystem\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
